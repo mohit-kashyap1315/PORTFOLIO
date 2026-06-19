@@ -54,7 +54,7 @@ const projects = [
     title: "Student Result Management System",
     description:
       "A web-based system for managing and displaying student results, grade calculations, and performance reports for educational institutions.",
-    image: "/images/Student-Result-Management-System.png",
+   image: "/images/student-result-management-system.png",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB", "JavaScript", "HTML5"],
     highlights: [
       "Admin panel to add subjects, marks & generate result reports",
